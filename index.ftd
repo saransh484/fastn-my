@@ -17,12 +17,12 @@ header-item3: Blogs
 header-item4: Tweets
 header-item5: Experience
 header-item6: Contact
-header-item1-link: /
-header-item2-link: /about
-header-item3-link: /blogs
-header-item4-link: /tweets
-header-item5-link: /experience
-header-item6-link: /contact
+header-item1-link: /fastn-my
+header-item2-link: /fastn-my/about
+header-item3-link: /fastn-my/blogs
+header-item4-link: /fastn-my/tweets
+header-item5-link: /fastn-my/experience
+header-item6-link: /fastn-my/contact
 cta-item1: Resume
 cta-item1-link: https://ayushsoni1010.com/resume
 cta-item2: Schedule a Meeting
