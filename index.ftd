@@ -126,5 +126,5 @@ image: $assets.files.images.mail.png
 -- end: ftd.column
 
 -- ftd.image: 
-src: $assets.files.images.pf.png
+src: $assets.files.images.pf.jpeg
 
