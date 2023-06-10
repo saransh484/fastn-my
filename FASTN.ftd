@@ -6,6 +6,7 @@ favicon: /-/saransh484.github.io/fastn-my/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: saransh484.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: saransh484.github.io/fastn-my/FASTN/my-ds
