@@ -27,3 +27,14 @@ cta-item1: Resume
 cta-item1-link: https://ayushsoni1010.com/resume
 cta-item2: Schedule a Meeting
 cta-item2-link: https://calendly.com/ayushsoni1010
+
+-- ftd.row:
+margin-top.px: 60
+spacing.fixed.px: 14
+
+-- ftd.column:
+spacing.fixed.px:20
+
+-- lib.hero-ui-base-text-wrapper:
+firstTitle: I'm
+secondTitle: Saransh Bhatnagar
