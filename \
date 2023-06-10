@@ -9,8 +9,8 @@
 
 -- layout.base-layout:
 
-logo: $assets.files.images.pf.jpg
-logoURL: /fastn-my
+logo: $assets.files.images.logo.svg
+logoURL: /
 header-item1: Home
 header-item2: About
 header-item3: Blogs
